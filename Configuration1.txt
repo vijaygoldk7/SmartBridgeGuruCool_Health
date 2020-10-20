@@ -1,0 +1,17 @@
+Organization ID
+rpqub5
+Device Type
+DHT
+Device ID
+1234
+Authentication Method
+use-token-auth
+Authentication Token
+i1A4@E(3DF8LbLnfFH
+
+
+API Key
+a-rpqub5-okiekdjxzq
+
+Authentication Token
+M&7QISjcQAc56URraQ

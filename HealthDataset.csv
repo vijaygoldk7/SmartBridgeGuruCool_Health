@@ -1,0 +1,1016 @@
+Age,Temperature,Systolic,Diastolic,Pulse,status
+18,36.4,60,40,60,Hypotension
+50,36.5,61,41,70,Hypotension
+9,36.6,62,42,80,Hypotension
+18,36.7,63,43,100,Hypotension
+18,36.8,64,44,60,Hypotension
+18,36.9,65,45,80,Hypotension
+25,37,66,46,100,Hypotension
+25,37.1,67,47,71,Hypotension
+25,37.2,68,48,81,Hypotension
+25,37.3,69,49,90,Hypotension
+25,37.4,70,50,89,Hypotension
+25,37.5,71,51,100,Hypotension
+35,36.4,72,52,92,Hypotension
+35,36.5,73,53,85,Hypotension
+35,36.8,74,54,87,Hypotension
+35,36.5,75,55,86,Hypotension
+35,36.9,76,56,78,Hypotension
+35,37.1,77,57,62,Hypotension
+45,36.5,78,58,88,Hypotension
+45,36.4,79,59,98,Hypotension
+45,36.8,79,59,99,Hypotension
+45,36.5,121,81,82,Prehypertension
+45,36.9,121,81,68,Prehypertension
+45,37.1,122,82,77,Prehypertension
+18,36.1,123,83,60,Prehypertension
+18,36.4,124,84,70,Prehypertension
+18,36.8,125,85,80,Prehypertension
+18,36.5,126,86,100,Prehypertension
+18,36.9,127,87,60,Prehypertension
+18,37.1,128,88,80,Prehypertension
+25,36.1,129,89,100,Prehypertension
+25,36.4,130,85,71,Prehypertension
+25,36.8,131,86,81,Prehypertension
+25,36.5,132,87,90,Prehypertension
+25,36.9,133,88,89,Prehypertension
+25,37.1,134,89,100,Prehypertension
+35,37.5,135,85,92,Prehypertension
+35,36.4,136,87,85,Prehypertension
+35,36.8,137,88,87,Prehypertension
+35,36.5,138,89,86,Prehypertension
+35,36.9,139,81,78,Prehypertension
+35,37.1,140,90,62,Hypertension
+45,36.8,141,91,88,Hypertension
+45,36.4,142,92,98,Hypertension
+45,36.8,143,93,99,Hypertension
+45,36.5,144,94,82,Hypertension
+45,36.9,145,95,68,Hypertension
+45,37.1,146,96,77,Hypertension
+18,36.5,160,100,60,Hypertension
+18,36.4,161,101,70,Hypertension
+18,36.8,162,102,80,Hypertension
+18,36.5,163,103,100,Hypertension
+18,36.9,164,104,60,Hypertension
+18,37.1,165,105,80,Hypertension
+25,37.5,180,110,100,Critical
+25,36.4,190,120,71,Critical
+25,36.8,200,130,81,Critical
+25,36.5,195,140,90,Critical
+25,34.9,80,60,60,Hypothermia
+25,35,81,61,61,Hypothermia
+35,35.1,82,62,62,Hypothermia
+35,35.2,83,63,63,Hypothermia
+35,35.3,84,64,64,Hypothermia
+35,35.4,85,65,65,Hypothermia
+35,35.5,86,66,66,Hypothermia
+35,35.6,87,67,67,Hypothermia
+45,35.7,88,68,68,Hypothermia
+45,35.8,89,69,69,Hypothermia
+45,35.9,90,70,70,Hypothermia
+45,36,91,71,71,Hypothermia
+45,36.1,110,70,90,Hypothermia
+45,36.2,120,80,100,Hypothermia
+18,37.6,80,60,60,Fever
+18,38.1,95,75,75,Fever
+18,38.2,96,76,76,Fever
+18,38.3,97,77,77,Fever
+18,38.4,98,78,78,Fever
+18,38.5,99,79,79,Fever
+25,38.6,100,80,80,Fever
+25,38.7,101,60,81,Fever
+25,38.8,102,61,82,Fever
+25,38.9,103,62,83,Fever
+25,39,104,63,84,Fever
+25,39.1,105,64,85,Fever
+35,39.2,106,65,86,Fever
+35,39.3,107,66,80,Fever
+35,39.4,120,80,100,Fever
+35,39.5,80,60,60,High Grade Fever
+35,39.6,110,69,90,High Grade Fever
+35,39.7,111,70,91,High Grade Fever
+45,39.8,112,71,92,High Grade Fever
+45,39.9,113,72,93,High Grade Fever
+45,40,114,73,94,High Grade Fever
+45,40.1,115,74,95,High Grade Fever
+45,40.2,116,75,96,High Grade Fever
+45,40.3,117,76,97,High Grade Fever
+18,40.4,118,77,98,High Grade Fever
+18,40.5,119,78,99,High Grade Fever
+18,40.6,120,79,100,High Grade Fever
+18,40.7,80,80,60,High Grade Fever
+18,40.8,90,60,61,High Grade Fever
+18,40.9,110,75,80,High Grade Fever
+25,41,120,80,100,Critical
+25,36.4,80,60,106,Tachycardia
+25,36.5,81,61,101,Tachycardia
+25,36.6,82,62,102,Tachycardia
+25,36.7,83,63,103,Tachycardia
+25,36.8,84,64,104,Tachycardia
+35,36.9,85,65,105,Tachycardia
+35,37,86,66,106,Tachycardia
+35,37.1,87,67,107,Tachycardia
+35,37.2,88,68,108,Tachycardia
+35,37.3,89,69,109,Tachycardia
+35,37.4,90,70,110,Tachycardia
+45,37.5,120,80,111,Tachycardia
+45,36.4,92,72,112,Tachycardia
+45,36.5,93,73,113,Tachycardia
+45,36.6,94,74,114,Tachycardia
+45,36.7,95,75,170,Tachycardia
+45,36.8,96,76,180,Tachycardia
+18,36.9,97,77,120,Tachycardia
+18,37,98,78,174,Tachycardia
+18,37.1,99,79,200,Critical
+18,37.2,100,80,180,Tachycardia
+18,37.3,101,80,35,Bradycardia
+18,37.4,102,78,31,Bradycardia
+25,37.5,103,76,32,Bradycardia
+25,36.4,104,74,33,Bradycardia
+25,36.8,80,60,34,Bradycardia
+25,36.5,106,70,35,Bradycardia
+25,36.9,107,68,36,Bradycardia
+25,37.1,108,66,37,Bradycardia
+35,36.5,109,64,38,Bradycardia
+35,36.8,110,62,39,Bradycardia
+35,36.8,90,60,40,Bradycardia
+35,36.5,112,66,41,Bradycardia
+35,36.9,113,65,42,Bradycardia
+35,37.1,114,64,9,Critical
+45,36.1,115,63,44,Bradycardia
+45,36.9,116,62,10,Critical
+45,36.8,117,61,46,Bradycardia
+45,36.5,118,66,47,Bradycardia
+45,36.9,119,76,48,Bradycardia
+45,37.1,120,80,49,Bradycardia
+55,37.5,110,72,174,Tachycardia
+52,36.4,115,78,55,Bradycardia
+55,36.9,100,65,164,Tachycardia
+59,36.6,112,66,56,Bradycardia
+56,36.5,115,79,175,Tachycardia
+55,37.5,120,65,32,Bradycardia
+0,0,0,0,0,Error
+1,1,1,1,1,Error
+2,2,2,2,2,Error
+3,3,3,3,3,Error
+4,4,4,4,4,Error
+5,5,5,5,5,Error
+6,6,6,6,6,Error
+7,7,7,7,7,Error
+8,8,8,8,8,Error
+9,9,9,9,9,Error
+10,10,10,10,10,Error
+11,11,11,11,11,Error
+12,12,12,12,12,Error
+13,13,13,13,13,Error
+14,14,14,14,14,Error
+15,15,15,15,15,Error
+16,16,16,16,16,Error
+17,17,17,17,17,Error
+18,18,18,18,18,Error
+19,19,19,19,19,Error
+20,20,20,20,20,Error
+21,21,21,21,21,Error
+22,22,22,22,22,Error
+23,23,23,23,23,Error
+24,24,24,24,24,Error
+25,25,25,25,25,Error
+26,26,26,26,26,Error
+27,27,27,27,27,Error
+28,28,28,28,28,Error
+29,29,29,29,29,Error
+30,30,30,30,30,Error
+65,36.5,180,30,90,Critical
+66,36.2,180,65,100,Critical
+67,38,80,60,101,Critical
+68,38.1,81,61,101,Critical
+30,38.2,82,62,102,Critical
+31,38.3,83,63,103,Critical
+32,38.4,84,64,104,Critical
+33,38.5,85,65,105,Critical
+34,38.6,86,66,106,Critical
+35,38.7,87,67,107,Critical
+36,38.8,88,68,108,Critical
+37,38.9,89,69,109,Critical
+38,39,90,70,110,Critical
+39,39.1,91,71,111,Critical
+40,39.2,92,72,112,Critical
+41,39.3,93,73,113,Critical
+42,39.4,94,74,114,Critical
+43,39.5,95,75,170,Critical
+44,39.6,96,76,180,Critical
+45,39.7,97,77,120,Critical
+46,39.8,98,78,130,Critical
+47,39.9,99,79,115,Critical
+48,40,100,80,105,Critical
+49,40.1,101,60,30,Critical
+50,40.2,102,61,31,Critical
+51,40.3,103,62,32,Critical
+52,40.4,104,63,33,Critical
+53,40.5,105,64,34,Critical
+54,40.6,106,65,35,Critical
+18,40.7,107,66,36,Critical
+50,40.8,108,67,37,Critical
+9,40.9,109,68,38,Critical
+18,41,110,69,39,Critical
+18,39.7,111,70,40,Critical
+18,39.8,112,71,41,Critical
+25,39.9,113,72,42,Critical
+25,40,114,73,43,Critical
+25,40.1,115,74,44,Critical
+25,40.2,116,75,45,Critical
+25,40.3,117,76,46,Critical
+25,40.4,118,77,47,Critical
+35,40.5,119,78,48,Critical
+35,40.6,120,79,49,Critical
+35,40.7,80,80,174,Critical
+35,40.8,90,60,55,Critical
+35,40.9,120,70,164,Critical
+35,41,110,80,56,Critical
+45,39.7,80,60,175,Critical
+45,39.8,81,61,32,Critical
+45,39.9,82,62,101,Critical
+45,40,83,63,101,Critical
+45,40.1,84,64,102,Critical
+45,40.2,85,65,103,Critical
+18,40.3,86,66,104,Critical
+18,40.4,87,67,105,Critical
+18,40.5,88,68,106,Critical
+18,40.6,89,69,107,Critical
+18,40.7,90,70,108,Critical
+18,40.8,91,71,109,Critical
+25,40.9,92,72,110,Critical
+25,41,93,73,111,Critical
+25,38,94,74,112,Critical
+25,38.1,95,75,113,Critical
+25,38.2,96,76,114,Critical
+25,38.3,97,77,170,Critical
+35,38.4,98,78,180,Critical
+35,38.5,99,79,120,Critical
+35,38.6,100,80,130,Critical
+35,38.7,101,80,115,Critical
+35,38.8,102,78,105,Critical
+35,38.9,103,76,30,Critical
+45,39,104,74,31,Critical
+45,39.1,105,72,32,Critical
+45,39.2,106,70,33,Critical
+45,39.3,107,68,34,Critical
+45,39.4,108,66,35,Critical
+45,39.5,109,64,36,Critical
+18,39.6,110,62,37,Critical
+18,39.7,111,60,38,Critical
+18,39.8,112,66,39,Critical
+18,39.9,113,65,40,Critical
+18,40,114,64,41,Critical
+18,40.1,115,63,42,Critical
+25,40.2,116,62,43,Critical
+25,40.3,117,61,44,Critical
+25,40.4,118,66,45,Critical
+25,40.5,119,76,46,Critical
+25,40.6,120,80,47,Critical
+25,40.7,110,72,48,Critical
+35,40.8,115,78,49,Critical
+35,40.9,100,65,174,Critical
+35,41,112,66,55,Critical
+35,37.9,115,79,164,Critical
+35,38,120,65,56,Critical
+35,39.1,60,40,60,Fever + Dehydration
+45,39.2,61,41,70,Fever + Dehydration
+45,39.3,62,42,80,Fever + Dehydration
+45,39.4,63,43,100,Fever + Dehydration
+45,39.5,64,44,60,Fever + Dehydration
+45,39.6,65,45,80,Fever + Dehydration
+45,39.7,66,46,100,Fever + Dehydration
+18,39.8,67,47,71,Fever + Dehydration
+18,39.9,68,48,81,Fever + Dehydration
+18,40,69,49,90,Fever + Dehydration
+18,40.1,70,50,89,Fever + Dehydration
+18,40.2,71,51,100,Fever + Dehydration
+18,40.3,72,52,92,Fever + Dehydration
+25,40.4,73,53,85,Fever + Dehydration
+25,38,74,54,87,Fever + Dehydration
+25,38.1,75,55,86,Fever + Dehydration
+25,38.2,76,56,78,Fever + Dehydration
+25,38.3,77,57,62,Fever + Dehydration
+25,38.4,78,58,88,Fever + Dehydration
+35,38.5,79,59,98,Fever + Dehydration
+35,38.6,79,59,99,Fever + Dehydration
+35,38.7,150,90,82,Fever + Hypertension
+35,39.1,121,81,68,Fever + Hypertension
+35,39.2,122,82,77,Fever + Hypertension
+35,39.3,123,83,60,Fever + Hypertension
+45,39.4,124,84,70,Fever + Hypertension
+45,39.5,125,85,80,Fever + Hypertension
+45,39.6,126,86,100,Fever + Hypertension
+45,39.7,127,87,60,Fever + Hypertension
+45,39.8,128,88,80,Fever + Hypertension
+45,39.9,129,89,100,Fever + Hypertension
+18,40,130,85,71,Fever + Hypertension
+18,40.1,131,86,81,Fever + Hypertension
+18,40.2,132,87,90,Fever + Hypertension
+18,40.3,133,88,89,Fever + Hypertension
+18,40.4,134,89,100,Fever + Hypertension
+18,38.1,135,85,92,Fever + Hypertension
+25,38.2,136,87,85,Fever + Hypertension
+25,38.3,137,88,87,Fever + Hypertension
+25,38.4,138,89,86,Fever + Hypertension
+25,38.5,139,80,78,Fever + Hypertension
+25,38.6,140,90,62,Fever + Hypertension
+25,38.7,141,91,88,Fever + Hypertension
+35,39.1,142,92,98,Fever + Hypertension
+35,39.2,143,93,99,Fever + Hypertension
+35,39.3,144,94,82,Fever + Hypertension
+35,39.4,145,95,68,Fever + Hypertension
+35,39.5,146,96,77,Fever + Hypertension
+35,39.6,160,100,60,Fever + Hypertension
+45,39.7,161,101,70,Fever + Hypertension
+45,39.8,162,102,80,Fever + Hypertension
+45,39.9,163,103,100,Fever + Hypertension
+45,40,164,104,60,Fever + Hypertension
+45,40.1,165,105,80,Fever + Hypertension
+45,35,82,62,101,Hypothermia + HP
+18,35.1,83,63,101,Hypothermia + HP
+18,35.3,84,64,102,Hypothermia + HP
+18,35.2,85,65,103,Hypothermia + HP
+18,35.3,86,66,104,Hypothermia + HP
+18,35.4,87,67,105,Hypothermia + HP
+18,35.5,88,68,106,Hypothermia + HP
+25,35.6,89,69,107,Hypothermia + HP
+25,35.7,90,70,108,Hypothermia + HP
+25,35.8,91,71,109,Hypothermia + HP
+25,35.9,92,72,110,Hypothermia + HP
+25,36,93,73,111,Hypothermia + HP
+25,36.1,94,74,112,Hypothermia + HP
+35,36.2,95,75,113,Hypothermia + HP
+35,35.4,96,76,114,Hypothermia + HP
+35,35.5,97,77,170,Hypothermia + HP
+35,35.6,98,78,180,Hypothermia + HP
+35,35.7,99,79,120,Hypothermia + HP
+35,35.8,100,80,130,Hypothermia + HP
+45,35.9,101,80,115,Hypothermia + HP
+45,36,102,78,105,Hypothermia + HP
+45,36.1,97,80,174,Hypothermia + HP
+45,36.2,120,80,164,Hypothermia + HP
+45,35.8,80,60,30,Hypothermia + LP
+45,35.9,81,61,31,Hypothermia + LP
+55,36,82,62,32,Hypothermia + LP
+52,36.1,83,63,59,Hypothermia + LP
+55,36.2,84,64,34,Hypothermia + LP
+59,36.3,85,65,35,Hypothermia + LP
+56,36,86,66,36,Hypothermia + LP
+55,35,87,67,37,Hypothermia + LP
+45,34.9,88,68,38,Hypothermia + LP
+55,35,89,69,39,Hypothermia + LP
+60,35.1,90,70,40,Hypothermia + LP
+65,35.2,91,71,41,Hypothermia + LP
+70,35.3,92,72,42,Hypothermia + LP
+75,35.4,93,73,43,Hypothermia + LP
+75,35.5,94,74,44,Hypothermia + LP
+80,35.6,95,75,45,Hypothermia + LP
+56,35.7,70,70,46,Hypothermia + LP
+59,35.8,97,77,47,Hypothermia + LP
+60,35.9,98,78,48,Hypothermia + LP
+70,36,99,79,49,Hypothermia + LP
+45,36.1,100,80,40,Hypothermia + LP
+44,36.2,110,81,41,Hypothermia + LP
+45,35.4,102,82,55,Hypothermia + LP
+50,35.5,103,70,43,Hypothermia + LP
+62,35.6,120,80,45,Hypothermia + LP
+63,35.8,150,90,80,Hypothermia + H.BP
+28,35.9,121,81,100,Hypothermia + H.BP
+50,36,122,82,60,Hypothermia + H.BP
+60,36.1,123,83,80,Hypothermia + H.BP
+72,36.2,124,84,100,Hypothermia + H.BP
+55,36,125,85,71,Hypothermia + H.BP
+78,36.1,126,86,81,Hypothermia + H.BP
+55,35,127,87,90,Hypothermia + H.BP
+68,34.9,128,88,89,Hypothermia + H.BP
+65,35,129,89,100,Hypothermia + H.BP
+22,35.1,130,85,92,Hypothermia + H.BP
+63,35.2,131,86,85,Hypothermia + H.BP
+74,35.3,132,87,87,Hypothermia + H.BP
+35,35.4,133,88,86,Hypothermia + H.BP
+69,35.5,134,89,78,Hypothermia + H.BP
+77,35.6,135,85,62,Hypothermia + H.BP
+56,35.7,136,87,88,Hypothermia + H.BP
+58,35.8,137,88,98,Hypothermia + H.BP
+75,35.9,138,89,99,Hypothermia + H.BP
+45,36,139,80,82,Hypothermia + H.BP
+66,36.1,140,90,68,Hypothermia + H.BP
+63,36.2,141,91,77,Hypothermia + H.BP
+62,35.4,142,92,60,Hypothermia + H.BP
+55,35.5,143,93,70,Hypothermia + H.BP
+48,35.6,144,94,62,Hypothermia + H.BP
+28,35.1,145,95,88,Hypothermia + H.BP
+50,35.2,146,96,98,Hypothermia + H.BP
+60,35.3,160,100,99,Hypothermia + H.BP
+72,35.4,161,101,82,Hypothermia + H.BP
+55,35.5,162,102,68,Hypothermia + H.BP
+78,35.6,163,103,77,Hypothermia + H.BP
+55,35.4,164,104,60,Hypothermia + H.BP
+68,35.5,165,105,70,Hypothermia + H.BP
+65,35.8,60,40,100,Hypothermia + L.BP
+22,35.9,61,41,71,Hypothermia + L.BP
+63,36,62,42,81,Hypothermia + L.BP
+74,36.1,63,43,90,Hypothermia + L.BP
+35,36.2,64,44,89,Hypothermia + L.BP
+69,36,65,45,100,Hypothermia + L.BP
+77,36.3,66,46,92,Hypothermia + L.BP
+56,35,67,47,85,Hypothermia + L.BP
+58,34.9,68,48,87,Hypothermia + L.BP
+75,35,69,49,86,Hypothermia + L.BP
+45,35.1,70,50,78,Hypothermia + L.BP
+66,35.2,71,51,62,Hypothermia + L.BP
+63,35.3,72,52,88,Hypothermia + L.BP
+62,35.4,73,53,98,Hypothermia + L.BP
+55,35.5,74,54,99,Hypothermia + L.BP
+48,35.6,75,55,82,Hypothermia + L.BP
+50,35.7,76,56,68,Hypothermia + L.BP
+51,35.8,77,57,77,Hypothermia + L.BP
+77,35.9,78,58,60,Hypothermia + L.BP
+56,36,79,59,70,Hypothermia + L.BP
+58,36.1,77,55,62,Hypothermia + L.BP
+75,36.2,73,53,88,Hypothermia + L.BP
+45,35.4,74,54,98,Hypothermia + L.BP
+66,35.5,75,55,99,Hypothermia + L.BP
+63,35.6,76,56,82,Hypothermia + L.BP
+62,35.1,77,57,68,Hypothermia + L.BP
+55,35.2,78,58,77,Hypothermia + L.BP
+48,35.3,79,59,60,Hypothermia + L.BP
+50,35.4,74,44,70,Hypothermia + L.BP
+51,35.5,78,58,77,Hypothermia + L.BP
+77,35.6,79,59,60,Hypothermia + L.BP
+56,35.4,79,59,70,Hypothermia + L.BP
+58,36.8,121,81,101,Critical
+75,36.9,121,81,101,Critical
+45,37,122,82,102,Critical
+66,37.1,123,83,103,Critical
+63,37.2,124,84,104,Critical
+62,37.3,125,85,105,Critical
+55,37.4,126,86,106,Critical
+48,37.5,127,87,107,Critical
+50,36.1,128,88,108,Critical
+51,36.3,129,89,109,Critical
+77,36.8,130,85,110,Critical
+56,36.5,131,86,111,Critical
+58,36.9,132,87,112,Critical
+75,37.1,133,88,113,Critical
+45,36.1,134,89,114,Critical
+66,36.3,135,85,170,Critical
+63,36.8,136,87,180,Critical
+62,36.5,137,88,120,Critical
+55,36.9,138,89,130,Critical
+48,37.1,139,80,115,Critical
+50,36.1,140,90,111,Critical
+51,36.3,141,91,112,Critical
+77,36.8,142,92,113,Critical
+56,36.5,143,93,114,Critical
+58,36.9,144,94,170,Critical
+75,37.1,145,95,180,Critical
+45,36.1,146,96,120,Critical
+66,36.3,160,100,130,Critical
+63,36.8,161,101,120,Critical
+62,36.5,162,102,130,Critical
+55,36.9,144,94,115,Critical
+48,37.1,145,95,111,Critical
+50,37.5,146,96,112,Critical
+51,36.4,121,81,30,H.BP + LP
+77,36.8,122,82,32,H.BP + LP
+56,36.5,123,83,33,H.BP + LP
+58,36.9,124,84,34,H.BP + LP
+75,37.1,125,85,35,H.BP + LP
+45,36.5,126,86,36,H.BP + LP
+66,36.8,127,87,37,H.BP + LP
+63,36.8,128,88,38,H.BP + LP
+62,36.5,129,89,39,H.BP + LP
+55,36.9,130,85,40,H.BP + LP
+48,37.1,131,86,41,H.BP + LP
+50,37,132,87,42,H.BP + LP
+51,37.1,133,88,43,H.BP + LP
+77,36.8,134,89,44,H.BP + LP
+56,36.5,135,85,45,H.BP + LP
+58,36.9,136,87,46,H.BP + LP
+75,37.1,137,88,47,H.BP + LP
+45,36.5,138,89,48,H.BP + LP
+66,36.9,139,81,49,H.BP + LP
+63,37.1,140,90,40,H.BP + LP
+62,36.8,141,91,41,H.BP + LP
+55,36.9,142,92,42,H.BP + LP
+48,36.8,143,93,47,H.BP + LP
+50,36.5,144,94,48,H.BP + LP
+51,36.9,145,95,49,H.BP + LP
+50,36.5,61,41,30,L.BP + LP
+51,36.9,62,42,32,L.BP + LP
+52,37.1,63,43,33,L.BP + LP
+53,36.7,64,44,34,L.BP + LP
+54,36.4,65,45,35,L.BP + LP
+55,36.8,66,46,36,L.BP + LP
+56,36.5,67,47,37,L.BP + LP
+57,36.9,68,48,38,L.BP + LP
+58,37.1,69,49,39,L.BP + LP
+59,37.5,70,50,40,L.BP + LP
+60,36.8,71,51,41,L.BP + LP
+61,36.8,72,52,42,L.BP + LP
+62,36.5,73,53,43,L.BP + LP
+63,36.9,74,54,44,L.BP + LP
+64,37.1,75,55,45,L.BP + LP
+65,36.5,76,56,46,L.BP + LP
+66,37,77,57,47,L.BP + LP
+67,36.8,78,58,48,L.BP + LP
+68,36.5,79,59,49,L.BP + LP
+30,36.9,79,58,40,L.BP + LP
+31,37.1,73,53,41,L.BP + LP
+32,36.5,74,54,42,L.BP + LP
+33,37.5,75,55,47,L.BP + LP
+34,36.8,76,56,48,L.BP + LP
+35,36.5,77,57,49,L.BP + LP
+36,36.9,78,58,42,L.BP + LP
+37,36.7,79,59,47,L.BP + LP
+38,36.8,77,55,48,L.BP + LP
+39,36.8,78,58,49,L.BP + LP
+40,36.5,79,59,48,L.BP + LP
+41,36.9,47,48,50,L.BP + LP
+42,36.7,65,45,101,L.BP + HP
+43,36.8,66,46,101,L.BP + HP
+44,36.5,67,47,102,L.BP + HP
+45,36.9,68,48,103,L.BP + HP
+46,37.1,69,49,104,L.BP + HP
+47,37.5,70,50,105,L.BP + HP
+48,37.1,71,51,106,L.BP + HP
+49,36.8,72,52,107,L.BP + HP
+50,36.5,73,53,108,L.BP + HP
+51,36.9,74,54,109,L.BP + HP
+52,37.1,75,55,110,L.BP + HP
+53,36.5,76,56,111,L.BP + HP
+54,36.7,77,57,112,L.BP + HP
+45,36.8,78,58,113,L.BP + HP
+45,36.5,79,59,114,L.BP + HP
+45,36.9,79,59,170,L.BP + HP
+45,37.1,73,53,180,L.BP + HP
+45,36.7,74,54,120,L.BP + HP
+45,36.3,75,55,130,L.BP + HP
+18,36.8,76,56,115,L.BP + HP
+18,36.5,77,57,111,L.BP + HP
+18,36.9,78,58,112,L.BP + HP
+18,36.9,79,59,113,L.BP + HP
+18,37.1,71,57,114,L.BP + HP
+18,36.8,78,58,170,L.BP + HP
+25,36.5,79,59,180,L.BP + HP
+25,36.9,66,44,120,L.BP + HP
+25,36.9,78,58,130,L.BP + HP
+25,37,79,59,120,L.BP + HP
+25,37.2,77,55,130,L.BP + HP
+25,36.8,78,58,115,L.BP + HP
+35,36.5,79,59,111,L.BP + HP
+35,36.9,72,59,112,L.BP + HP
+35,39.9,121,81,101,Critical
+35,40,121,81,101,Critical
+35,40.1,122,82,102,Critical
+35,40.2,123,83,103,Critical
+45,40.3,124,84,104,Critical
+45,40.4,125,85,105,Critical
+45,40.5,126,86,106,Critical
+45,40.6,127,87,107,Critical
+45,40.7,128,88,108,Critical
+45,40.8,129,89,109,Critical
+55,40.9,130,85,110,Critical
+52,41,131,86,111,Critical
+55,38,132,87,112,Critical
+45,38.1,133,88,113,Critical
+45,38.2,134,89,114,Critical
+45,38.3,135,85,170,Critical
+45,38.4,136,87,180,Critical
+45,38.5,137,88,120,Critical
+45,38.6,138,89,130,Critical
+18,38.7,139,80,115,Critical
+18,38.8,140,90,111,Critical
+18,40.9,141,91,112,Critical
+18,41,142,92,113,Critical
+18,38,143,93,114,Critical
+18,38.1,144,94,170,Critical
+25,38.2,145,95,180,Critical
+25,38.3,146,96,120,Critical
+25,38.4,160,100,130,Critical
+25,38.5,161,101,120,Critical
+25,38.6,162,102,130,Critical
+25,38.7,144,94,115,Critical
+35,38.8,145,95,111,Critical
+35,38,146,96,112,Critical
+35,35,61,41,30,Critical
+35,35.1,62,42,32,Critical
+35,35.3,63,43,33,Critical
+35,35.2,64,44,34,Critical
+45,35.3,65,45,35,Critical
+45,35.4,66,46,36,Critical
+45,35.5,67,47,37,Critical
+45,35.6,68,48,38,Critical
+45,35.7,69,49,39,Critical
+45,35.8,70,50,40,Critical
+55,35.9,71,51,41,Critical
+52,36,72,52,42,Critical
+55,36.1,73,53,43,Critical
+45,36.2,74,54,44,Critical
+45,35.4,75,55,45,Critical
+45,35.5,76,56,46,Critical
+45,35.6,77,57,47,Critical
+45,35.7,78,58,48,Critical
+45,35.8,79,59,49,Critical
+18,35.9,80,60,40,Critical
+18,36,73,53,41,Critical
+18,36.1,74,54,42,Critical
+18,36.2,75,55,47,Critical
+18,35.8,76,56,48,Critical
+18,35.9,77,57,49,Critical
+25,36,78,58,42,Critical
+25,36.1,79,59,47,Critical
+25,36.2,80,60,48,Critical
+25,36.3,78,58,49,Critical
+25,36,79,59,48,Critical
+25,35,80,60,50,Critical
+35,34.9,61,41,30,Critical
+35,35,62,42,32,Critical
+35,35.1,63,43,33,Critical
+35,35.2,64,44,34,Critical
+35,35.3,65,45,35,Critical
+35,35.4,66,46,36,Critical
+45,35.5,67,47,37,Critical
+45,35.6,68,48,38,Critical
+45,35.7,69,49,39,Critical
+45,35.8,70,50,40,Critical
+45,35.9,71,51,41,Critical
+45,36,72,52,42,Critical
+55,36.1,73,53,43,Critical
+52,36.2,74,54,44,Critical
+55,35.4,75,55,45,Critical
+45,35.5,76,56,46,Critical
+45,35.6,77,57,47,Critical
+45,35.8,78,58,48,Critical
+45,35.9,79,59,49,Critical
+45,36,80,60,40,Critical
+45,36.1,73,53,41,Critical
+18,36.2,74,54,42,Critical
+18,36,75,55,47,Critical
+18,36.1,76,56,48,Critical
+18,35,77,57,49,Critical
+18,34.9,78,58,42,Critical
+18,35,79,59,47,Critical
+25,35.1,80,60,48,Critical
+25,35.2,78,58,49,Critical
+25,35.3,79,59,48,Critical
+25,35.4,80,60,50,Critical
+25,39.9,61,41,101,Critical
+25,40,62,42,101,Critical
+35,40.1,63,43,102,Critical
+35,40.2,64,44,103,Critical
+35,40.3,65,45,104,Critical
+35,40.4,66,46,105,Critical
+35,40.5,67,47,106,Critical
+35,40.6,68,48,107,Critical
+45,40.7,69,49,108,Critical
+45,40.8,70,50,109,Critical
+45,40.9,71,51,110,Critical
+45,41,72,52,111,Critical
+45,38,73,53,112,Critical
+45,38.1,74,54,113,Critical
+55,38.2,75,55,114,Critical
+52,38.3,76,56,170,Critical
+55,38.4,77,57,180,Critical
+45,38.5,78,58,120,Critical
+45,38.6,79,59,130,Critical
+45,38.7,80,60,115,Critical
+45,38.8,73,53,111,Critical
+45,40.9,74,54,112,Critical
+45,41,75,55,113,Critical
+18,38,76,56,114,Critical
+18,38.1,77,57,170,Critical
+18,38.2,78,58,180,Critical
+18,38.3,79,59,120,Critical
+18,38.4,80,60,130,Critical
+18,38.5,78,58,120,Critical
+25,38.6,79,59,130,Critical
+25,38.7,80,60,115,Critical
+25,38.8,61,41,111,Critical
+25,38,62,42,112,Critical
+25,39.9,63,43,101,Critical
+25,40,64,44,101,Critical
+35,40.1,65,45,102,Critical
+35,40.2,66,46,103,Critical
+35,40.3,67,47,104,Critical
+35,40.4,68,48,105,Critical
+35,40.5,69,49,106,Critical
+35,40.6,70,50,107,Critical
+45,40.7,71,51,108,Critical
+45,40.8,72,52,109,Critical
+45,40.9,73,53,110,Critical
+45,41,74,54,111,Critical
+45,38,75,55,112,Critical
+45,38.1,76,56,113,Critical
+55,38.2,77,57,114,Critical
+52,38.3,78,58,170,Critical
+55,38.4,79,59,180,Critical
+45,38.5,80,60,120,Critical
+45,38.6,73,53,130,Critical
+45,38.7,74,54,115,Critical
+45,38.8,75,55,111,Critical
+45,40.9,76,56,112,Critical
+45,41,77,57,113,Critical
+18,38,78,58,114,Critical
+18,38.1,79,59,170,Critical
+18,38.2,80,60,180,Critical
+18,38.3,78,58,120,Critical
+18,38.4,79,59,130,Critical
+18,38.5,80,60,120,Critical
+25,38.6,80,60,130,Critical
+25,38.7,78,58,115,Critical
+25,38.8,79,59,111,Critical
+25,38,80,60,112,Critical
+25,39.9,61,41,30,Critical
+25,40,62,42,32,Critical
+35,40.1,63,43,33,Critical
+35,40.2,64,44,34,Critical
+35,40.3,65,45,35,Critical
+35,40.4,66,46,36,Critical
+35,40.5,67,47,37,Critical
+35,40.6,68,48,38,Critical
+45,40.7,69,49,39,Critical
+45,40.8,70,50,40,Critical
+45,40.9,71,51,41,Critical
+45,41,72,52,42,Critical
+45,38,73,53,43,Critical
+45,38.1,74,54,44,Critical
+55,38.2,75,55,45,Critical
+52,38.3,76,56,46,Critical
+55,38.4,77,57,47,Critical
+45,38.5,78,58,48,Critical
+45,38.6,79,59,49,Critical
+45,38.7,80,60,40,Critical
+45,38.8,73,53,41,Critical
+45,40.9,74,54,42,Critical
+45,41,75,55,47,Critical
+18,38,76,56,48,Critical
+18,38.1,77,57,49,Critical
+18,38.2,78,58,42,Critical
+18,38.3,79,59,47,Critical
+18,38.4,80,60,48,Critical
+18,38.5,78,58,49,Critical
+25,38.6,79,59,48,Critical
+25,38.7,80,60,50,Critical
+25,38.8,61,41,30,Critical
+25,38,62,42,32,Critical
+25,39.9,63,43,33,Critical
+25,40,64,44,34,Critical
+35,40.1,65,45,35,Critical
+35,40.2,66,46,36,Critical
+35,40.3,67,47,37,Critical
+35,40.4,68,48,38,Critical
+35,40.5,69,49,39,Critical
+35,40.6,70,50,40,Critical
+45,40.7,71,51,41,Critical
+45,40.8,72,52,42,Critical
+45,40.9,73,53,43,Critical
+45,41,74,54,44,Critical
+45,38,75,55,45,Critical
+45,38.1,76,56,46,Critical
+55,38.2,77,57,47,Critical
+52,38.3,78,58,48,Critical
+55,38.4,79,59,49,Critical
+45,38.5,80,60,40,Critical
+45,38.6,73,53,41,Critical
+45,38.7,74,54,42,Critical
+45,38.8,75,55,47,Critical
+45,40.9,76,56,48,Critical
+45,41,77,57,49,Critical
+18,38,78,58,42,Critical
+18,38.1,79,59,47,Critical
+18,38.2,80,60,48,Critical
+18,38.3,78,58,49,Critical
+18,38.4,79,59,48,Critical
+18,38.5,80,60,50,Critical
+25,38.6,80,60,48,Critical
+25,38.7,78,58,49,Critical
+25,38.8,79,59,48,Critical
+25,38,80,60,50,Critical
+25,35,61,41,101,Critical
+25,35.1,62,42,101,Critical
+35,35.3,63,43,102,Critical
+35,35.2,64,44,103,Critical
+35,35.3,65,45,104,Critical
+35,35.4,66,46,105,Critical
+35,35.5,67,47,106,Critical
+35,35.6,68,48,107,Critical
+45,35.7,69,49,108,Critical
+45,35.8,70,50,109,Critical
+45,35.9,71,51,110,Critical
+45,36,72,52,111,Critical
+45,36.1,73,53,112,Critical
+45,36.2,74,54,113,Critical
+55,35.4,75,55,114,Critical
+52,35.5,76,56,170,Critical
+55,35.6,77,57,180,Critical
+45,35.7,78,58,120,Critical
+45,35.8,79,59,130,Critical
+45,35.9,80,60,115,Critical
+45,36,73,53,111,Critical
+45,36.1,74,54,112,Critical
+45,36.2,75,55,113,Critical
+18,35.8,76,56,114,Critical
+18,35.9,77,57,170,Critical
+18,36,78,58,180,Critical
+18,36.1,79,59,120,Critical
+18,36.2,80,60,130,Critical
+18,36.3,78,58,120,Critical
+25,36,79,59,130,Critical
+25,35,80,60,115,Critical
+25,34.9,61,41,111,Critical
+25,35,62,42,112,Critical
+25,35.1,63,43,101,Critical
+25,35.2,64,44,101,Critical
+35,35.3,65,45,102,Critical
+35,35.4,66,46,103,Critical
+35,35.5,67,47,104,Critical
+35,35.6,68,48,105,Critical
+35,35.7,69,49,106,Critical
+35,35.8,70,50,107,Critical
+45,35.9,71,51,108,Critical
+45,36,72,52,109,Critical
+45,36.1,73,53,110,Critical
+45,36.2,74,54,111,Critical
+45,35.4,75,55,112,Critical
+45,35.5,76,56,113,Critical
+55,35.6,77,57,114,Critical
+52,35.8,78,58,170,Critical
+55,35.9,79,59,180,Critical
+45,36,80,60,120,Critical
+45,36.1,73,53,130,Critical
+45,36.2,74,54,115,Critical
+45,36,75,55,111,Critical
+45,36.1,76,56,112,Critical
+45,35,77,57,113,Critical
+18,34.9,78,58,114,Critical
+18,35,79,59,170,Critical
+18,35.1,80,60,180,Critical
+18,35.2,78,58,120,Critical
+18,35.3,79,59,130,Critical
+18,35.4,80,60,120,Critical
+25,35.1,80,60,130,Critical
+25,35.2,78,58,115,Critical
+25,35.3,79,59,111,Critical
+25,35.4,80,60,112,Critical
+25,39.9,121,81,30,Critical
+25,40,121,81,32,Critical
+35,40.1,122,82,33,Critical
+35,40.2,123,83,34,Critical
+35,40.3,124,84,35,Critical
+35,40.4,125,85,36,Critical
+35,40.5,126,86,37,Critical
+35,40.6,127,87,38,Critical
+45,40.7,128,88,39,Critical
+45,40.8,129,89,40,Critical
+45,40.9,130,85,41,Critical
+45,41,131,86,42,Critical
+45,38,132,87,43,Critical
+45,38.1,133,88,44,Critical
+55,38.2,134,89,45,Critical
+52,38.3,135,85,46,Critical
+55,38.4,136,87,47,Critical
+45,38.5,137,88,48,Critical
+45,38.6,138,89,49,Critical
+45,38.7,139,80,40,Critical
+45,38.8,140,90,41,Critical
+45,40.9,141,91,42,Critical
+45,41,142,92,47,Critical
+18,38,143,93,48,Critical
+18,38.1,144,94,49,Critical
+18,38.2,145,95,42,Critical
+18,38.3,146,96,47,Critical
+18,38.4,160,100,48,Critical
+18,38.5,161,101,49,Critical
+25,38.6,162,102,48,Critical
+25,38.7,144,94,50,Critical
+25,38.8,145,95,30,Critical
+25,38,146,96,32,Critical
+25,35,121,81,130,Critical
+25,35.1,121,81,115,Critical
+35,35.3,122,82,111,Critical
+35,35.2,123,83,112,Critical
+35,35.3,124,84,113,Critical
+35,35.4,125,85,114,Critical
+35,35.5,126,86,170,Critical
+35,35.6,127,87,180,Critical
+45,35.7,128,88,120,Critical
+45,35.8,129,89,130,Critical
+45,35.9,130,85,120,Critical
+45,36,131,86,130,Critical
+45,36.1,132,87,115,Critical
+45,36.2,133,88,111,Critical
+55,35.4,134,89,112,Critical
+52,35.5,135,85,101,Critical
+55,35.6,136,87,101,Critical
+66,35.7,137,88,102,Critical
+45,35.8,138,89,103,Critical
+45,35.9,139,80,104,Critical
+45,36,140,90,105,Critical
+45,36.1,141,91,106,Critical
+45,36.2,142,92,107,Critical
+45,35.8,143,93,108,Critical
+18,35.9,144,94,109,Critical
+18,36,145,95,110,Critical
+18,36.1,146,96,111,Critical
+18,36.2,160,100,112,Critical
+18,36.3,161,101,113,Critical
+18,36,162,102,114,Critical
+25,35,144,94,170,Critical
+25,34.9,145,95,180,Critical
+25,35,146,96,30,Critical
+25,35.1,121,81,32,Critical
+25,35.3,121,81,33,Critical
+25,35.2,122,82,34,Critical
+35,35.3,123,83,35,Critical
+35,35.4,124,84,36,Critical
+35,35.5,125,85,37,Critical
+35,35.6,126,86,38,Critical
+35,35.7,127,87,39,Critical
+35,35.8,128,88,40,Critical
+45,35.9,129,89,41,Critical
+45,36,130,85,42,Critical
+45,36.1,131,86,43,Critical
+45,36.2,132,87,44,Critical
+45,35.4,133,88,45,Critical
+45,35.5,134,89,46,Critical
+55,35.6,135,85,47,Critical
+52,35.7,136,87,48,Critical
+55,35.8,137,88,49,Critical
+15,35.9,138,89,40,Critical
+16,36,139,80,41,Critical
+17,36.1,140,90,42,Critical
+18,36.2,141,91,47,Critical
+19,35.8,142,92,48,Critical
+20,35.9,143,93,49,Critical
+21,36,144,94,42,Critical
+22,36.1,145,95,47,Critical
+23,36.2,146,96,48,Critical
+24,36.3,160,100,49,Critical
+25,36,161,101,48,Critical
+26,35,162,102,50,Critical
+27,34.9,144,94,30,Critical
+28,36.4,80,60,60,Normal
+29,36.5,81,61,61,Normal
+30,36.6,82,62,62,Normal
+31,36.7,83,63,63,Normal
+32,36.8,84,64,64,Normal
+33,36.9,85,65,65,Normal
+34,37,86,66,66,Normal
+35,37.1,87,67,67,Normal
+36,37.2,88,68,68,Normal
+37,37.3,89,69,69,Normal
+38,37.4,90,70,70,Normal
+39,37.5,91,71,71,Normal
+40,36.4,92,72,72,Normal
+41,36.5,93,73,73,Normal
+42,36.6,94,74,74,Normal
+43,36.7,95,75,75,Normal
+44,36.8,96,76,76,Normal
+45,36.9,97,77,77,Normal
+46,37,98,78,78,Normal
+47,37.1,99,79,79,Normal
+48,37.2,100,80,80,Normal
+49,37.3,101,70,81,Normal
+50,37.4,102,71,82,Normal
+51,37.5,103,72,83,Normal
+52,36.4,104,73,84,Normal
+53,36.5,105,74,85,Normal
+54,36.6,106,75,86,Normal
+55,36.7,107,76,87,Normal
+56,36.8,108,77,88,Normal
+57,36.9,109,78,89,Normal
+58,37,110,79,90,Normal
+59,37.1,111,80,91,Normal
+60,37.2,112,70,92,Normal
+61,37.3,113,71,93,Normal
+62,37.4,114,72,94,Normal
+63,37.5,115,73,95,Normal
+64,36.4,116,74,96,Normal
+65,36.5,117,75,97,Normal
+66,36.6,118,76,98,Normal
+67,36.7,119,77,99,Normal
+68,36.8,120,78,100,Normal
+69,36.9,105,79,76,Normal
+70,37,106,80,77,Normal
+71,37.1,107,61,78,Normal
+72,37.2,108,62,79,Normal
+73,37.3,109,63,80,Normal
+74,37.4,110,64,81,Normal
+75,37.5,111,65,82,Normal
+76,36.4,112,66,83,Normal
+77,36.5,113,67,84,Normal
+18,36.6,114,68,85,Normal
+19,36.7,115,69,86,Normal
+20,36.8,116,70,87,Normal
+21,36.9,117,71,88,Normal
+22,37,118,72,89,Normal
+23,37.1,93,73,79,Normal
+24,37.2,94,74,80,Normal
+25,37.3,95,75,81,Normal
+26,37.4,96,76,82,Normal
+27,37.5,80,60,60,Normal
+28,36.4,120,80,100,Normal

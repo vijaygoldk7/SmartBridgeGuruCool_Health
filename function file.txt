@@ -1,0 +1,20 @@
+var Age = global.get ('Age')
+var Temperature = global.get ('Temperature')
+var Systolic = global.get ('Systolic')
+var Diastolic = global.get ('Diastolic')
+var Pulse = global.get ('Pulse')
+var output=msg.payload.predictions[0].values[0][0]
+global.set("ouptut",output)
+msg.payload = {
+ details: {
+ health: {
+ Age: Age,
+ temperature: Temperature,
+ systolic: Systolic,
+ diastloic:Diastolic,
+ pulse: Pulse,
+ output: output
+ }
+ }
+}
+return msg;
